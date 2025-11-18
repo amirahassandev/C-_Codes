@@ -58,6 +58,8 @@ public class ShippingService
     }
 }
 
+
+// Simple Factory
 public static class ShippingServiceFactory
 {
     public static IShippingServiceStrategy Create(ShippingSeviceCategory category)
