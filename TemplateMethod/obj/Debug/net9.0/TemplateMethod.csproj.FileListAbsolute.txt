@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfo.cs
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.sourcelink.json
+D:\.NET\learn_CScode\TemplateMethod\bin\Debug\net9.0\TemplateMethod.exe
+D:\.NET\learn_CScode\TemplateMethod\bin\Debug\net9.0\TemplateMethod.deps.json
+D:\.NET\learn_CScode\TemplateMethod\bin\Debug\net9.0\TemplateMethod.runtimeconfig.json
+D:\.NET\learn_CScode\TemplateMethod\bin\Debug\net9.0\TemplateMethod.dll
+D:\.NET\learn_CScode\TemplateMethod\bin\Debug\net9.0\TemplateMethod.pdb
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.dll
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\refint\TemplateMethod.dll
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.pdb
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\TemplateMethod.genruntimeconfig.cache
+D:\.NET\learn_CScode\TemplateMethod\obj\Debug\net9.0\ref\TemplateMethod.dll
