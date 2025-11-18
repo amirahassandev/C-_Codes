@@ -1,0 +1,14 @@
+D:\.NET\learn_CScode\TestCodes\bin\Debug\net9.0\TestCodes.exe
+D:\.NET\learn_CScode\TestCodes\bin\Debug\net9.0\TestCodes.deps.json
+D:\.NET\learn_CScode\TestCodes\bin\Debug\net9.0\TestCodes.runtimeconfig.json
+D:\.NET\learn_CScode\TestCodes\bin\Debug\net9.0\TestCodes.dll
+D:\.NET\learn_CScode\TestCodes\bin\Debug\net9.0\TestCodes.pdb
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.AssemblyInfo.cs
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.dll
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\refint\TestCodes.dll
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.pdb
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\TestCodes.genruntimeconfig.cache
+D:\.NET\learn_CScode\TestCodes\obj\Debug\net9.0\ref\TestCodes.dll
