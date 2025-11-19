@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+D:\.NET\learn_CScode\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+D:\.NET\learn_CScode\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+D:\.NET\learn_CScode\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+D:\.NET\learn_CScode\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.sourcelink.json
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+D:\.NET\learn_CScode\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll
