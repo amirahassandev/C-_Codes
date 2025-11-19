@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfo.cs
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.sourcelink.json
+D:\.NET\learn_CScode\StatePattern\bin\Debug\net9.0\StatePattern.exe
+D:\.NET\learn_CScode\StatePattern\bin\Debug\net9.0\StatePattern.deps.json
+D:\.NET\learn_CScode\StatePattern\bin\Debug\net9.0\StatePattern.runtimeconfig.json
+D:\.NET\learn_CScode\StatePattern\bin\Debug\net9.0\StatePattern.dll
+D:\.NET\learn_CScode\StatePattern\bin\Debug\net9.0\StatePattern.pdb
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.dll
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\refint\StatePattern.dll
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.pdb
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\StatePattern.genruntimeconfig.cache
+D:\.NET\learn_CScode\StatePattern\obj\Debug\net9.0\ref\StatePattern.dll
