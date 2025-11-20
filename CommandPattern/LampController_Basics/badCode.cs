@@ -1,4 +1,4 @@
-// namespace CommandPattern.LampController_Basics;
+// namespace CommandPattern;
 // public class LampController
 // {
 //     private int brightness = 50;

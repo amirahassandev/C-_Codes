@@ -1,4 +1,4 @@
-namespace CommandPattern.LampController_Basics;
+namespace CommandPattern;
 
 public class Lamp
 {
