@@ -1,4 +1,4 @@
-namespace CommandPattern;
+namespace CommandPattern.LampController;
 
 public class Lamp
 {
@@ -34,33 +34,49 @@ public class Lamp
 public interface ICommand
 {
     public string Execute();
+    public string Undo();
 }
 
 public class CommandInvoker
 {
     public List<ICommand> Commands = new();
+    public Stack<ICommand> commandsExecute = new();
+    List<string> commandsReturn = new List<string>();
     public void AddCommand(ICommand command)
     {
         Commands.Add(command);
     }
 
-    // public void ExecuteCommand()
-    // {
-    //     int i = 1;
-    //     foreach (ICommand com in Commands)
-    //     {
-    //         System.Console.WriteLine($"Command #{i++} => {com.Execute()}");
-    //     }
-    // }
-
-    public List<string> ExecuteCommand()
+    public List<string> ExecuteCommands()
     {
-        List<string> commandsReturn = new List<string>();
-        foreach (ICommand com in Commands)
+        foreach (ICommand command in Commands)
         {
-            commandsReturn.Add(com.Execute());
+            var comm = ExecuteCommand(command);
+            commandsReturn.Add(comm);
         }
         return commandsReturn;
+    }
+
+    public string ExecuteCommand(ICommand command)
+    {
+        var commandExe = command.Execute();
+        commandsExecute.Push(command);
+
+        return commandExe;
+    }
+
+    public void Undo()
+    {
+        if(commandsExecute.Count > 0)
+        {
+            var command = commandsExecute.Pop();
+            // commandsReturn.remove();
+            Console.WriteLine($"UNDO ->>>>: {command.Undo()}");
+        }
+        else
+        {
+            Console.WriteLine("No commands to undo.");
+        }
     }
 }
 
@@ -75,6 +91,10 @@ public class IsOnCommand: ICommand
     {
         return _lamp.IsOn();
     }
+    public string Undo()
+    {
+        return _lamp.IsOff();
+    }
 }
 
 public class IsOffCommand: ICommand
@@ -87,6 +107,10 @@ public class IsOffCommand: ICommand
     public string Execute()
     {
         return _lamp.IsOff();
+    }
+    public string Undo()
+    {
+        return _lamp.IsOn();
     }
 }
 
@@ -101,6 +125,10 @@ public class IncreaseBrightnessCommand: ICommand
     {
         return _lamp.Inc();
     }
+    public string Undo()
+    {
+        return _lamp.Dec();
+    }
 }
 
 public class DecreaseBrightnessCommand: ICommand
@@ -113,5 +141,9 @@ public class DecreaseBrightnessCommand: ICommand
     public string Execute()
     {
         return _lamp.Dec();
+    }
+    public string Undo()
+    {
+        return _lamp.Inc();
     }
 }
