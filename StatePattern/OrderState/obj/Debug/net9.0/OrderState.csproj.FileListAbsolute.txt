@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\StatePattern\OrderState\bin\Debug\net9.0\OrderState.exe
+D:\.NET\learn_CScode\StatePattern\OrderState\bin\Debug\net9.0\OrderState.deps.json
+D:\.NET\learn_CScode\StatePattern\OrderState\bin\Debug\net9.0\OrderState.runtimeconfig.json
+D:\.NET\learn_CScode\StatePattern\OrderState\bin\Debug\net9.0\OrderState.dll
+D:\.NET\learn_CScode\StatePattern\OrderState\bin\Debug\net9.0\OrderState.pdb
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.AssemblyInfo.cs
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.sourcelink.json
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.dll
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\refint\OrderState.dll
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.pdb
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\OrderState.genruntimeconfig.cache
+D:\.NET\learn_CScode\StatePattern\OrderState\obj\Debug\net9.0\ref\OrderState.dll

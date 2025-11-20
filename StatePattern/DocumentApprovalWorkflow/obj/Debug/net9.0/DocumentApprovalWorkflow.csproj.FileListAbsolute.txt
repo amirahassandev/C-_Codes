@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\bin\Debug\net9.0\DocumentApprovalWorkflow.exe
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\bin\Debug\net9.0\DocumentApprovalWorkflow.deps.json
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\bin\Debug\net9.0\DocumentApprovalWorkflow.runtimeconfig.json
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\bin\Debug\net9.0\DocumentApprovalWorkflow.dll
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\bin\Debug\net9.0\DocumentApprovalWorkflow.pdb
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.AssemblyInfo.cs
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.sourcelink.json
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.dll
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\refint\DocumentApprovalWorkflow.dll
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.pdb
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\DocumentApprovalWorkflow.genruntimeconfig.cache
+D:\.NET\learn_CScode\StatePattern\DocumentApprovalWorkflow\obj\Debug\net9.0\ref\DocumentApprovalWorkflow.dll
