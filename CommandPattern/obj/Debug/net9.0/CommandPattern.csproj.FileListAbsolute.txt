@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\CommandPattern\bin\Debug\net9.0\CommandPattern.exe
+D:\.NET\learn_CScode\CommandPattern\bin\Debug\net9.0\CommandPattern.deps.json
+D:\.NET\learn_CScode\CommandPattern\bin\Debug\net9.0\CommandPattern.runtimeconfig.json
+D:\.NET\learn_CScode\CommandPattern\bin\Debug\net9.0\CommandPattern.dll
+D:\.NET\learn_CScode\CommandPattern\bin\Debug\net9.0\CommandPattern.pdb
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfo.cs
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.sourcelink.json
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.dll
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\refint\CommandPattern.dll
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.pdb
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\CommandPattern.genruntimeconfig.cache
+D:\.NET\learn_CScode\CommandPattern\obj\Debug\net9.0\ref\CommandPattern.dll
