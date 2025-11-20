@@ -41,7 +41,9 @@ public class CommandInvoker
 {
     public List<ICommand> Commands = new();
     public Stack<ICommand> commandsExecute = new();
-    List<string> commandsReturn = new List<string>();
+    public Stack<ICommand> undoneExecute = new();
+
+    
     public void AddCommand(ICommand command)
     {
         Commands.Add(command);
@@ -49,6 +51,7 @@ public class CommandInvoker
 
     public List<string> ExecuteCommands()
     {
+        List<string> commandsReturn = new List<string>();
         foreach (ICommand command in Commands)
         {
             var comm = ExecuteCommand(command);
@@ -70,14 +73,28 @@ public class CommandInvoker
         if(commandsExecute.Count > 0)
         {
             var command = commandsExecute.Pop();
-            // commandsReturn.remove();
             Console.WriteLine($"UNDO ->>>>: {command.Undo()}");
+            undoneExecute.Push(command);
         }
         else
         {
             Console.WriteLine("No commands to undo.");
         }
     }
+
+    public void Redo()
+    {
+        if(undoneExecute.Count > 0)
+        {
+            var command = undoneExecute.Pop();
+            var commandExe = ExecuteCommand(command);
+            Console.WriteLine($"REDO ->>>>: {commandExe}");
+        }
+        else
+        {
+            Console.WriteLine("No commands to undo.");
+        }
+    } 
 }
 
 public class IsOnCommand: ICommand

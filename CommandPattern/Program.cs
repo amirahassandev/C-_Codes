@@ -17,6 +17,7 @@ internal class program
 
         List<string> commands = commInvoke.ExecuteCommands();
         commInvoke.Undo();
+        commInvoke.Redo();
         
 
         foreach(string comm in commands)
