@@ -1,4 +1,4 @@
-namespace DesignPattern;
+namespace ObservePattern;
 
 // ObservePattern
 // public class VideoYoutubeChannel

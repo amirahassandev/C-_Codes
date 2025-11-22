@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.AssemblyInfo.cs
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.sourcelink.json
+D:\.NET\learn_CScode\ObservePattern\bin\Debug\net9.0\ObservePattern.exe
+D:\.NET\learn_CScode\ObservePattern\bin\Debug\net9.0\ObservePattern.deps.json
+D:\.NET\learn_CScode\ObservePattern\bin\Debug\net9.0\ObservePattern.runtimeconfig.json
+D:\.NET\learn_CScode\ObservePattern\bin\Debug\net9.0\ObservePattern.dll
+D:\.NET\learn_CScode\ObservePattern\bin\Debug\net9.0\ObservePattern.pdb
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.dll
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\refint\ObservePattern.dll
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.pdb
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ObservePattern.genruntimeconfig.cache
+D:\.NET\learn_CScode\ObservePattern\obj\Debug\net9.0\ref\ObservePattern.dll
