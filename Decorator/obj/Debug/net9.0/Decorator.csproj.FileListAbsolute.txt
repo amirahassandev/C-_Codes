@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfo.cs
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.sourcelink.json
+D:\.NET\learn_CScode\Decorator\bin\Debug\net9.0\Decorator.exe
+D:\.NET\learn_CScode\Decorator\bin\Debug\net9.0\Decorator.deps.json
+D:\.NET\learn_CScode\Decorator\bin\Debug\net9.0\Decorator.runtimeconfig.json
+D:\.NET\learn_CScode\Decorator\bin\Debug\net9.0\Decorator.dll
+D:\.NET\learn_CScode\Decorator\bin\Debug\net9.0\Decorator.pdb
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.dll
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\refint\Decorator.dll
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.pdb
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\Decorator.genruntimeconfig.cache
+D:\.NET\learn_CScode\Decorator\obj\Debug\net9.0\ref\Decorator.dll
