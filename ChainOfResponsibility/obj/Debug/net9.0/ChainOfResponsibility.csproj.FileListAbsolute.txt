@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.sourcelink.json
+D:\.NET\learn_CScode\ChainOfResponsibility\bin\Debug\net9.0\ChainOfResponsibility.exe
+D:\.NET\learn_CScode\ChainOfResponsibility\bin\Debug\net9.0\ChainOfResponsibility.deps.json
+D:\.NET\learn_CScode\ChainOfResponsibility\bin\Debug\net9.0\ChainOfResponsibility.runtimeconfig.json
+D:\.NET\learn_CScode\ChainOfResponsibility\bin\Debug\net9.0\ChainOfResponsibility.dll
+D:\.NET\learn_CScode\ChainOfResponsibility\bin\Debug\net9.0\ChainOfResponsibility.pdb
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.dll
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\refint\ChainOfResponsibility.dll
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.pdb
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ChainOfResponsibility.genruntimeconfig.cache
+D:\.NET\learn_CScode\ChainOfResponsibility\obj\Debug\net9.0\ref\ChainOfResponsibility.dll
