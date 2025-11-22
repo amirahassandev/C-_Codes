@@ -1,6 +1,5 @@
-using System.Security.Principal;
 
-namespace DesignPattern;
+namespace PubAndSub;
 
 public class TempInfoEventArgs : EventArgs
 {

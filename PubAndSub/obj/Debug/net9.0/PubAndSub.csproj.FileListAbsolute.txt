@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\PubAndSub\bin\Debug\net9.0\PubAndSub.exe
+D:\.NET\learn_CScode\PubAndSub\bin\Debug\net9.0\PubAndSub.deps.json
+D:\.NET\learn_CScode\PubAndSub\bin\Debug\net9.0\PubAndSub.runtimeconfig.json
+D:\.NET\learn_CScode\PubAndSub\bin\Debug\net9.0\PubAndSub.dll
+D:\.NET\learn_CScode\PubAndSub\bin\Debug\net9.0\PubAndSub.pdb
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.AssemblyInfo.cs
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.sourcelink.json
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.dll
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\refint\PubAndSub.dll
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.pdb
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\PubAndSub.genruntimeconfig.cache
+D:\.NET\learn_CScode\PubAndSub\obj\Debug\net9.0\ref\PubAndSub.dll
