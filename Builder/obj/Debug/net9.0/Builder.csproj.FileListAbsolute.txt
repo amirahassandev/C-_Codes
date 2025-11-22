@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+D:\.NET\learn_CScode\Builder\bin\Debug\net9.0\Builder.exe
+D:\.NET\learn_CScode\Builder\bin\Debug\net9.0\Builder.deps.json
+D:\.NET\learn_CScode\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+D:\.NET\learn_CScode\Builder\bin\Debug\net9.0\Builder.dll
+D:\.NET\learn_CScode\Builder\bin\Debug\net9.0\Builder.pdb
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.dll
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\refint\Builder.dll
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.pdb
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+D:\.NET\learn_CScode\Builder\obj\Debug\net9.0\ref\Builder.dll
