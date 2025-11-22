@@ -2,12 +2,12 @@ namespace Builder;
 
 public class Computer
 {
-    public string CPU { get; }
-    public int RAM { get; }
-    public int Storage { get; }
-    public string GraphicCard { get; }
-    public string Monitor { get; }
-    public bool HasRGB { get; }
+    public string _CPU { get; }
+    public int _RAM { get; }
+    public int _Storage { get; }
+    public string _GraphicCard { get; }
+    public string _Monitor { get; }
+    public bool _HasRGB { get; }
     public Computer(string CPU, int RAM, int Storage, string GraphicCard, string Monitor, bool HasRGB)
     {
         _CPU = CPU;
