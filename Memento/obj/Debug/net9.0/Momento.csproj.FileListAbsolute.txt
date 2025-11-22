@@ -1,0 +1,15 @@
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.AssemblyInfoInputs.cache
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.AssemblyInfo.cs
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.csproj.CoreCompileInputs.cache
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.sourcelink.json
+D:\.NET\learn_CScode\Memento\bin\Debug\net9.0\Momento.exe
+D:\.NET\learn_CScode\Memento\bin\Debug\net9.0\Momento.deps.json
+D:\.NET\learn_CScode\Memento\bin\Debug\net9.0\Momento.runtimeconfig.json
+D:\.NET\learn_CScode\Memento\bin\Debug\net9.0\Momento.dll
+D:\.NET\learn_CScode\Memento\bin\Debug\net9.0\Momento.pdb
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.dll
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\refint\Momento.dll
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.pdb
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\Momento.genruntimeconfig.cache
+D:\.NET\learn_CScode\Memento\obj\Debug\net9.0\ref\Momento.dll
