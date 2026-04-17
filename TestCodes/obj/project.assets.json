@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\learn_CScode\\TestCodes\\TestCodes.csproj",
+      "projectUniqueName": "D:\\New folder\\.NET\\learn_CScode\\TestCodes\\TestCodes.csproj",
       "projectName": "TestCodes",
-      "projectPath": "D:\\.NET\\learn_CScode\\TestCodes\\TestCodes.csproj",
+      "projectPath": "D:\\New folder\\.NET\\learn_CScode\\TestCodes\\TestCodes.csproj",
       "packagesPath": "C:\\Users\\MR.GENIUS\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\learn_CScode\\TestCodes\\obj\\",
+      "outputPath": "D:\\New folder\\.NET\\learn_CScode\\TestCodes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
